@@ -2,6 +2,7 @@
 My first repository for IDEA9103
 
 ## Part 1: Imaging Technique Inspiration
+
 Artist：Chris barber
 
 Works：adding a dvd box every time it bounces off the wall until my computer crashes
@@ -20,6 +21,7 @@ Inspiration thinking：
 - The fissuring effect can increase the visual impact and add interest.
 
 
+
 ## Part 2: Coding Technique Exploration
 
 （1）
@@ -36,6 +38,8 @@ Inspiration thinking：
 ![An image](assets/7F.png)
 ![An image](assets/8F.png)
 [Link Text](https://editor.p5js.org/ms12297/sketches/XAQwqAwOK)
+
+
 
 Technical discussion：
 
