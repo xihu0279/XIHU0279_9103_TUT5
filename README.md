@@ -1,6 +1,8 @@
 # XIHU0279_9103_TUT5
 My first repository for IDEA9103
 
+Week 8 Quiz
+
 ## Part 1: Imaging Technique Inspiration
 
 Artist：Chris barber
@@ -48,3 +50,4 @@ Technical discussion：
 
 
 2. The code achieves a dynamic and interactive visual effect by updating the circle's position and color using the `update()` method, checking for boundary collisions and replicating circles with the `replicate() `method, and combining these operations with the `run()` method. The `setup() `function initializes the canvas and circles, while the` draw()` function loops to render the canvas and update the circles.
+
